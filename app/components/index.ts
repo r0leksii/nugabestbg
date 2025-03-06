@@ -1,0 +1,8 @@
+export { Header } from './Header'
+export { Hero } from './Hero'
+export { Features } from './Features'
+export { ProductShowcase } from './ProductShowcase'
+export { Benefits } from './Benefits'
+export { Testimonials } from './Testimonials'
+export { Contact } from './Contact'
+export { Footer } from './Footer' 
